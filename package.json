@@ -1,0 +1,41 @@
+{
+  "name": "ethical-computing",
+  "version": "1.0.0",
+  "description": "Actionable tools for building ethical systems.",
+  "keywords": [
+    "ethics",
+    "ai",
+    "artificial",
+    "intelligence",
+    "ethical",
+    "computing"
+  ],
+  "homepage": "https://github.com/macornwell/ethical-computing#readme",
+  "bugs": {
+    "url": "https://github.com/macornwell/ethical-computing/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/macornwell/ethical-computing.git"
+  },
+  "license": "MIT",
+  "author": "Mike Cornwell",
+  "type": "commonjs",
+  "main": "index.js",
+  "bin": {},
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  },
+  "scripts": {
+    "commit": "cz"
+  },
+  "devDependencies": {
+    "cz-conventional-changelog": "^3.3.0"
+  },
+  "dependencies": {
+    "argparse": "^2.0.1",
+    "glob": "^11.0.2"
+  }
+}
