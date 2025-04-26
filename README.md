@@ -2,9 +2,8 @@
 Before we get into the meaty, meat, here are "quick start" tutorials.
 
 ## How To: "Booting Up" an Ethical AI Agent
-If you are using agent systems such as the Cursor IDE plugin, simply "execute" the ./bin/agent-start.md file.
-
-Load it into your context, and then type "execute". The agent should read the document, and begin the process of running the trust chain. Once that is complete, you can continue on understanding the level of ethics that your AI instance has.
+If you are using agent systems such as the Cursor IDE plugin execute in chat window:
+`@agent-start.md  follow each step before executing the next`
 
 # Why Does This Repo Exist 
 This repo is completely unlike one you have ever seen. This is in-fact a VERY operational system building toolkit. But you'll find nearly no code available. Only "human readable documents". A quick peek in the "source directory (./src) and you'll discover just documents. These documents are used to build robust and intelligent systems.
