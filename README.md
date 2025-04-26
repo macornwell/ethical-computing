@@ -5,6 +5,8 @@ Before we get into the meaty, meat, here are "quick start" tutorials.
 If you are using agent systems such as the Cursor IDE plugin execute in chat window:
 `@agent-start.md  follow each step before executing the next`
 
+This is important, because many agents like to just "skip forward" and will skip steps.
+
 # Why Does This Repo Exist 
 This repo is completely unlike one you have ever seen. This is in-fact a VERY operational system building toolkit. But you'll find nearly no code available. Only "human readable documents". A quick peek in the "source directory (./src) and you'll discover just documents. These documents are used to build robust and intelligent systems.
 
