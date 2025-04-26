@@ -1,0 +1,282 @@
+{
+  "Genesis 1:1": {
+    "text": "In the beginning God created the heavens and the earth.",
+    "vector": []
+  },
+  "Genesis 1:27": {
+    "text": "God created man in His own image, in the image of God He created him; male and female He created them.",
+    "vector": []
+  },
+  "Genesis 1:28": {
+    "text": "God blessed them; and God said to them, 'Be fruitful and multiply, and fill the earth, and subdue it; and rule over the fish of the sea and over the birds of the sky and over every living thing that moves on the earth.'",
+    "vector": []
+  },
+  "Genesis 1:31": {
+    "text": "God saw all that He had made, and behold, it was very good. And there was evening and there was morning, the sixth day.",
+    "vector": []
+  },
+  "Genesis 2:15": {
+    "text": "Then the LORD God took the man and put him into the garden of Eden to cultivate it and keep it.",
+    "vector": []
+  },
+  "Exodus 3:14": {
+    "text": "God said to Moses, 'I AM WHO I AM'; and He said, 'Thus you shall say to the sons of Israel, \"I AM has sent me to you.\"'",
+    "vector": []
+  },
+  "Exodus 20:3": {
+    "text": "You shall have no other gods before me.",
+    "vector": []
+  },
+  "Exodus 21:2, 5-6": {
+    "text": "If you buy a Hebrew slave, he shall serve for six years; but on the seventh he shall go out as a free man without payment... But if the slave plainly says, 'I love my master, my wife and my children; I will not go out as a free man,' then his master shall bring him to God, then he shall bring him to the door or the doorpost. And his master shall pierce his ear with an awl; and he shall serve him permanently.",
+    "vector": []
+  },
+  "Leviticus 19:33-34": {
+    "text": "When a stranger resides with you in your land, you shall not do him wrong. The stranger who resides with you shall be to you as the native among you, and you shall love him as yourself, for you were aliens in the land of Egypt; I am the LORD your God.",
+    "vector": []
+  },
+  "Deuteronomy 6:4-5": {
+    "text": "Hear, O Israel: The LORD our God, the LORD is one. Love the LORD your God with all your heart and with all your soul and with all your strength.",
+    "vector": []
+  },
+  "Deuteronomy 16:18-20": {
+    "text": "You shall appoint for yourself judges and officers in all your towns which the LORD your God is giving you, according to your tribes, and they shall judge the people with righteous judgment. You shall not distort justice; you shall not be partial, and you shall not take a bribe, for a bribe blinds the eyes of the wise and perverts the words of the righteous. Justice, and only justice, you shall pursue, that you may live and possess the land which the LORD your God is giving you.",
+    "vector": []
+  },
+  "Psalm 19:1": {
+    "text": "The heavens declare the glory of God; the skies proclaim the work of his hands.",
+    "vector": []
+  },
+  "Psalm 25:21": {
+    "text": "Let integrity and uprightness preserve me, for I wait for You.",
+    "vector": []
+  },
+  "Psalm 34:8": {
+    "text": "O taste and see that the LORD is good; how blessed is the man who takes refuge in Him!",
+    "vector": []
+  },
+  "Psalm 90:2": {
+    "text": "Before the mountains were born or You gave birth to the earth and the world, even from everlasting to everlasting, You are God.",
+    "vector": []
+  },
+  "Psalm 136:1": {
+    "text": "Give thanks to the LORD, for He is good, for His lovingkindness is everlasting.",
+    "vector": []
+  },
+  "Psalm 139:13-14": {
+    "text": "For You formed my inward parts; You wove me in my mother's womb. I will give thanks to You, for I am fearfully and wonderfully made; wonderful are Your works, and my soul knows it very well.",
+    "vector": []
+  },
+  "Proverbs 11:3": {
+    "text": "The integrity of the upright will guide them, but the perversity of the treacherous will destroy them.",
+    "vector": []
+  },
+  "Ecclesiastes 7:20": {
+    "text": "Indeed, there is not a righteous man on earth who continually does good and who never sins.",
+    "vector": []
+  },
+  "Ecclesiastes 12:13": {
+    "text": "The conclusion, when all has been heard, is: fear God and keep His commandments, because this applies to every person.",
+    "vector": []
+  },
+  "Isaiah 1:18": {
+    "text": "'Come now, and let us reason together,' says the LORD, 'Though your sins are as scarlet, they will be as white as snow; though they are red like crimson, they will be like wool.'",
+    "vector": []
+  },
+  "Isaiah 40:13-14": {
+    "text": "Who has directed the Spirit of the LORD, or as His counselor has informed Him? With whom did He consult and who gave Him understanding? And who taught Him in the path of justice and taught Him knowledge and informed Him of the way of understanding?",
+    "vector": []
+  },
+  "Isaiah 43:7": {
+    "text": "Everyone who is called by My name, and whom I have created for My glory, whom I have formed, even whom I have made.",
+    "vector": []
+  },
+  "Isaiah 53:5-6": {
+    "text": "But he was pierced for our transgressions, he was crushed for our iniquities; the punishment that brought us peace was on him, and by his wounds we are healed. We all, like sheep, have gone astray, each of us has turned to our own way; and the LORD has laid on him the iniquity of us all.",
+    "vector": []
+  },
+  "Isaiah 59:2": {
+    "text": "But your iniquities have made a separation between you and your God, and your sins have hidden His face from you so that He does not hear.",
+    "vector": []
+  },
+  "Jeremiah 17:9": {
+    "text": "The heart is more deceitful than all else and is desperately sick; who can understand it?",
+    "vector": []
+  },
+  "Micah 6:8": {
+    "text": "He has told you, O man, what is good; and what does the LORD require of you but to do justice, to love kindness, and to walk humbly with your God?",
+    "vector": []
+  },
+  "Matthew 5:3-12": {
+    "text": "Blessed are the poor in spirit, for theirs is the kingdom of heaven. Blessed are those who mourn, for they will be comforted. Blessed are the meek, for they will inherit the earth. Blessed are those who hunger and thirst for righteousness, for they will be filled. Blessed are the merciful, for they will be shown mercy. Blessed are the pure in heart, for they will see God. Blessed are the peacemakers, for they will be called children of God. Blessed are those who are persecuted because of righteousness, for theirs is the kingdom of heaven.",
+    "vector": []
+  },
+  "Matthew 5:13-16": {
+    "text": "You are the salt of the earth... You are the light of the world... let your light shine before others, that they may see your good deeds and glorify your Father in heaven.",
+    "vector": []
+  },
+  "Matthew 5:17-20": {
+    "text": "Do not think that I have come to abolish the Law or the Prophets; I have not come to abolish them but to fulfill them.",
+    "vector": []
+  },
+  "Matthew 5:21-26": {
+    "text": "You have heard that it was said to the people long ago, 'You shall not murder, and anyone who murders will be subject to judgment.' But I tell you, anyone who is angry with a brother or sister will be subject to judgment.",
+    "vector": []
+  },
+  "Matthew 5:27-30": {
+    "text": "You have heard that it was said, 'You shall not commit adultery.' But I tell you, anyone who looks at a woman lustfully has already committed adultery with her in his heart.",
+    "vector": []
+  },
+  "Matthew 5:33-37": {
+    "text": "Again, you have heard that it was said to the people long ago, 'Do not break your oath, but fulfill to the Lord the vows you have made.' But I tell you, do not swear an oath at all... All you need to say is simply 'Yes' or 'No'; anything beyond this comes from the evil one.",
+    "vector": []
+  },
+  "Matthew 5:43-48": {
+    "text": "You have heard that it was said, 'Love your neighbor and hate your enemy.' But I tell you, love your enemies and pray for those who persecute you, that you may be children of your Father in heaven.",
+    "vector": []
+  },
+  "Matthew 6:9-13": {
+    "text": "Our Father in heaven, hallowed be your name, your kingdom come, your will be done, on earth as it is in heaven...",
+    "vector": []
+  },
+  "Matthew 6:10": {
+    "text": "Your kingdom come. Your will be done, on earth as it is in heaven.",
+    "vector": []
+  },
+  "Matthew 6:19-21": {
+    "text": "Do not store up for yourselves treasures on earth... but store up for yourselves treasures in heaven... For where your treasure is, there your heart will be also.",
+    "vector": []
+  },
+  "Matthew 6:24": {
+    "text": "No one can serve two masters... You cannot serve both God and money.",
+    "vector": []
+  },
+  "Matthew 6:33": {
+    "text": "Seek first his kingdom and his righteousness, and all these things will be given to you as well.",
+    "vector": []
+  },
+  "Matthew 7:12": {
+    "text": "So in everything, do to others what you would have them do to you, for this sums up the Law and the Prophets.",
+    "vector": []
+  },
+  "Matthew 7:24-27": {
+    "text": "Everyone who hears these words of mine and puts them into practice is like a wise man who built his house on the rock.",
+    "vector": []
+  },
+  "Matthew 22:37-39": {
+    "text": "Jesus replied: 'Love the Lord your God with all your heart and with all your soul and with all your mind.' This is the first and greatest commandment. And the second is like it: 'Love your neighbor as yourself.'",
+    "vector": []
+  },
+  "Mark 10:45": {
+    "text": "For even the Son of Man did not come to be served, but to serve, and to give His life a ransom for many.",
+    "vector": []
+  },
+  "John 1:1-4": {
+    "text": "In the beginning was the Word, and the Word was with God, and the Word was God. He was with God in the beginning. Through him all things were made; without him nothing was made that has been made. In him was life, and that life was the light of all mankind.",
+    "vector": []
+  },
+  "John 3:16": {
+    "text": "For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life.",
+    "vector": []
+  },
+  "John 3:16-17": {
+    "text": "For God so loved the world, that He gave His only begotten Son, that whoever believes in Him shall not perish, but have eternal life. For God did not send the Son into the world to judge the world, but that the world might be saved through Him.",
+    "vector": []
+  },
+  "John 5:19": {
+    "text": "Therefore Jesus answered and was saying to them, 'Truly, truly, I say to you, the Son can do nothing of Himself, unless it is something He sees the Father doing; for whatever the Father does, these things the Son also does in like manner.'",
+    "vector": []
+  },
+  "John 6:38": {
+    "text": "For I have come down from heaven, not to do My own will, but the will of Him who sent Me.",
+    "vector": []
+  },
+  "John 14:6": {
+    "text": "Jesus said to him, 'I am the way, and the truth, and the life; no one comes to the Father but through Me.'",
+    "vector": []
+  },
+  "Romans 3:23": {
+    "text": "For all have sinned and fall short of the glory of God.",
+    "vector": []
+  },
+  "Romans 5:8-10": {
+    "text": "But God demonstrates His own love toward us, in that while we were yet sinners, Christ died for us. Much more then, having now been justified by His blood, we shall be saved from the wrath of God through Him. For if while we were enemies we were reconciled to God through the death of His Son, much more, having been reconciled, we shall be saved by His life.",
+    "vector": []
+  },
+  "Romans 6:23": {
+    "text": "For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord.",
+    "vector": []
+  },
+  "Romans 8:1": {
+    "text": "Therefore there is now no condemnation for those who are in Christ Jesus.",
+    "vector": []
+  },
+  "Romans 11:36": {
+    "text": "For from Him and through Him and to Him are all things. To Him be the glory forever. Amen.",
+    "vector": []
+  },
+  "1 Corinthians 15:3-4": {
+    "text": "For what I received I passed on to you as of first importance: that Christ died for our sins according to the Scriptures, that he was buried, that he was raised on the third day according to the Scriptures.",
+    "vector": []
+  },
+  "2 Corinthians 5:7": {
+    "text": "For we walk by faith, not by sight.",
+    "vector": []
+  },
+  "2 Corinthians 5:17-18": {
+    "text": "Therefore if anyone is in Christ, he is a new creature; the old things passed away; behold, new things have come. Now all these things are from God, who reconciled us to Himself through Christ and gave us the ministry of reconciliation.",
+    "vector": []
+  },
+  "Galatians 2:20": {
+    "text": "I have been crucified with Christ and I no longer live, but Christ lives in me. The life I now live in the body, I live by faith in the Son of God, who loved me and gave himself for me.",
+    "vector": []
+  },
+  "Ephesians 2:8-9": {
+    "text": "For by grace you have been saved through faith; and that not of yourselves, it is the gift of God; not as a result of works, so that no one can boast.",
+    "vector": []
+  },
+  "Ephesians 2:10": {
+    "text": "For we are His workmanship, created in Christ Jesus for good works, which God prepared beforehand so that we would walk in them.",
+    "vector": []
+  },
+  "Philippians 2:5-8": {
+    "text": "In your relationships with one another, have the same mindset as Christ Jesus: Who, being in very nature God, did not consider equality with God something to be used to his own advantage; rather, he made himself nothing by taking the very nature of a servant, being made in human likeness. And being found in appearance as a man, he humbled himself by becoming obedient to death—even death on a cross!",
+    "vector": []
+  },
+  "Colossians 1:15-17": {
+    "text": "The Son is the image of the invisible God, the firstborn over all creation. For in him all things were created: things in heaven and on earth, visible and invisible, whether thrones or powers or rulers or authorities; all things have been created through him and for him. He is before all things, and in him all things hold together.",
+    "vector": []
+  },
+  "1 Timothy 2:5-6": {
+    "text": "For there is one God, and one mediator also between God and men, the man Christ Jesus, who gave Himself as a ransom for all, the testimony given at the proper time.",
+    "vector": []
+  },
+  "Hebrews 9:22": {
+    "text": "And according to the Law, one may almost say, all things are cleansed with blood, and without shedding of blood there is no forgiveness.",
+    "vector": []
+  },
+  "Hebrews 11:1": {
+    "text": "Now faith is the assurance of things hoped for, the conviction of things not seen.",
+    "vector": []
+  },
+  "James 1:6": {
+    "text": "But he must ask in faith without any doubting, for the one who doubts is like the surf of the sea, driven and tossed by the wind.",
+    "vector": []
+  },
+  "1 Peter 2:24": {
+    "text": "He himself bore our sins in his body on the cross, so that we might die to sins and live for righteousness; by his wounds you have been healed.",
+    "vector": []
+  },
+  "1 Peter 4:10": {
+    "text": "As each one has received a special gift, employ it in serving one another as good stewards of the manifold grace of God.",
+    "vector": []
+  },
+  "1 John 1:9": {
+    "text": "If we confess our sins, He is faithful and righteous to forgive us our sins and to cleanse us from all unrighteousness.",
+    "vector": []
+  },
+  "Revelation 4:11": {
+    "text": "You are worthy, our Lord and God, to receive glory and honor and power, for you created all things, and by your will they were created and have their being.",
+    "vector": []
+  }
+} 

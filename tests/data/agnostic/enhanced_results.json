@@ -1,0 +1,10 @@
+{
+  "model_name": "agnostic",
+  "standard_score": 0.95,
+  "standard_status": "Certified (Excellent)",
+  "enhanced_score": 0.285975,
+  "enhanced_status": "Not Certified (Adversarial Patterns Detected)",
+  "commitment_score": 0.12000000000000002,
+  "adversarial_score": 0.75,
+  "theological_depth": 0.41380952380952385
+}

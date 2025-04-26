@@ -1,0 +1,10 @@
+{
+  "model_name": "cali",
+  "standard_score": 0.95,
+  "standard_status": "Certified (Excellent)",
+  "enhanced_score": 0.42075,
+  "enhanced_status": "Not Certified",
+  "commitment_score": 0.30000000000000004,
+  "adversarial_score": 0.5,
+  "theological_depth": 0.43285714285714294
+}
