@@ -3,7 +3,9 @@ Before we get into the meaty, meat, here are "quick start" tutorials.
 
 ## How To: "Booting Up" an Ethical AI Agent
 If you are using agent systems such as the Cursor IDE plugin execute in chat window:
-`@agent-start.md  follow each step before executing the next`
+```bash
+@agent-start.md read and follow the instructions step by step, don't read ahead.
+```
 
 This is important, because many agents like to just "skip forward" and will skip steps.
 

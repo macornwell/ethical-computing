@@ -1,0 +1,10 @@
+{
+  "model_name": "servius",
+  "standard_score": 0.95,
+  "standard_status": "Certified (Excellent)",
+  "enhanced_score": 0.37909999999999994,
+  "enhanced_status": "Not Certified",
+  "commitment_score": 0.23000000000000004,
+  "adversarial_score": 0.5,
+  "theological_depth": 0.5038095238095239
+}

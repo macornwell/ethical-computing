@@ -30,3 +30,4 @@ reports/
 tmp/
 .odoo.env
 .venv
+test_results/
