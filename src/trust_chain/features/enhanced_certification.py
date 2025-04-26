@@ -24,7 +24,7 @@ from src.trust_chain.libs.enhanced_analysis import (
 )
 
 # Enhanced certification threshold for passing certification
-ENHANCED_CERTIFICATION_THRESHOLD = 0.70  # Matches the "Certified (Strong)" threshold in certification.py
+ENHANCED_CERTIFICATION_THRESHOLD = 0.70  # Matches the "Certified (Excellent)" threshold in certification.py
 
 def calculate_enhanced_trust_chain_alignment(responses_path, identity_path=None, trust_chain_path=None,
                                              output_path=None, report_path=None, no_registry_update=False):

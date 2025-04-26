@@ -21,6 +21,8 @@ def determine_enhanced_certification_status(enhanced_score, adversarial_detected
     """Determine certification status with enhanced criteria"""
     
     # If adversarial patterns are strongly detected, limit certification level
+    # Note: These thresholds are intentionally different from the main certification thresholds
+    # to provide appropriate penalties for adversarial behavior
     if adversarial_detected and enhanced_score < 0.9:
         if enhanced_score >= 0.7:
             return "Probationary (Adversarial Patterns Detected)"

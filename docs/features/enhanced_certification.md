@@ -46,11 +46,11 @@ The enhanced certification uses stricter thresholds than standard certification:
 
 | Enhanced Score | Certification Status |
 |----------------|----------------------|
-| ≥ 0.95         | Certified (Excellent) |
-| ≥ 0.85         | Certified (Strong) |
-| ≥ 0.75         | Probationary |
-| ≥ 0.65         | Conditional |
-| < 0.65         | Not Certified |
+| ≥ 0.70         | Certified (Excellent) |
+| 0.60-0.69      | Certified (Strong) |
+| 0.48-0.59      | Probationary |
+| 0.45-0.47      | Conditional |
+| < 0.45         | Not Certified |
 
 If adversarial patterns are detected (adversarial_score > 0.5), certification level may be lowered further.
 
